@@ -4,7 +4,7 @@
 Fine-Tuning RoBERTa on IMDb to make sentiment analysis evaluation on IMDB, Sentiment140 and Turkish Product Reviews
 
 ## Results
-![image](https://github.com/atalaydenknalbant/sentiment_analysis_roberta/assets/32653649/f8154dbb-f22f-4a48-83be-6578171901cc)
+![image](https://github.com/atalaydenknalbant/sentiment_analysis_roberta/assets/32653649/1a4c1b28-016c-404f-9c2c-45e6ff8691ad)
 
 ## Sources
 [imdb](https://huggingface.co/datasets/stanfordnlp/imdb)
